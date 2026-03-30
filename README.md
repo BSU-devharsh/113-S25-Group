@@ -1,12 +1,12 @@
-# 113-F25-Group
+# 113-Group-Project
 Final group project in Java.
 
 
 #### Bowie State University
 #### Department of Computer Science
 #### COSC 113, Section 001/400
-#### Group Project, Fall 2025
-#### Instructor: Dr. Devharsh Trivedi
+#### Group Project, Spring 2026
+#### Instructor: Devharsh Trivedi, Ph.D., CISSP
 
 
 #### Instructions:
